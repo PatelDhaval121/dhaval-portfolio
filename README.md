@@ -18,6 +18,7 @@ No npm install or build step is required. Google Fonts are loaded from the inter
 - Add GitHub repository/live demo links for projects you want to publish.
 - Review every project description and stack to ensure it reflects the version you actually built.
 - Add a résumé PDF to the project and link it from the hero if you want a download button.
+- The included download button uses `assets/Dhaval_Patel_Resume.pdf`; keep this filename and path unchanged when publishing.
 
 ## Included
 
